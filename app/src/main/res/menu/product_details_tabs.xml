@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/classement_page"
+        android:icon="@drawable/ic_tab_fiche"
+        android:enabled="true"
+        android:title="Classement" />
+
+    <item
+        android:id="@+id/recherche_page"
+        android:icon="@drawable/ic_tab_nutrition"
+        android:enabled="true"
+        android:title="Recherche" />
+
+    <item
+        android:id="@+id/favoris_page"
+        android:icon="@drawable/ic_tab_tableau"
+        android:enabled="true"
+        android:title="Favoris" />
+
+</menu>

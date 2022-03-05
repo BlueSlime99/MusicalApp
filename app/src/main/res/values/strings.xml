@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MUZIKA</string>
+    <!--Page de classements -->
+    <string name="title_page">Classements</string>
+
+    <!-- Section titre-->
+    <string name="titres">Titres</string>
+    <string name="nom_titre">Nom du Titre classés</string>
+    <string name="artiste_titre">Artiste du titre classés</string>
+
+    <!-- Section Album -->
+    <string name="albums">Albums</string>
+    <string name="nom_album">Nom d\'Album classés</string>
+    <string name="artiste_album">Artiste d\'Album classés</string>
+
+    <!-- attributs commun-->
+    <string name="chiffre_classement">Numéro de classement</string>
+
+
+    <!-- Page de Recherche -->
+
+    <string name="barre_de_recherche">Recherche Titre/Artiste</string>
+
+    <!-- Section Album
+
+        <string name="albums_">Albums</string>
+        <string name="nom_album_favoris">Nom d\'Album Favoris</string>
+        <string name="artiste_album_favoris">Artiste d\'Album Favoris</string>
+
+         Section Artistes
+        <string name="artistes">Artistes</string>
+        <string name="artiste_favoris">Artiste Favoris</string> -->
+
+
+    <!-- Page de favoris -->
+    <string name="mes_artistes_albums">Mes Artistes &amp; Albums</string>
+
+    <!-- Section Album -->
+
+    <string name="albums_favoris">Albums</string>
+    <string name="nom_album_favoris">Nom d\'Album Favoris</string>
+    <string name="artiste_album_favoris">Artiste d\'Album Favoris</string>
+
+    <!-- Section Artistes -->
+    <string name="artistes">Artistes</string>
+    <string name="artiste_favoris">Artiste Favoris</string>
+
+
+    <!-- Page de L'Artiste -->
+    <string name="artiste">Artiste</string>
+    <string name="titres_les_plus_apprecies">Titres les plus appréciés</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
